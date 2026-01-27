@@ -40,19 +40,21 @@ Streamlit
 
 cilt_içerik_analiz_projesi/
 │
-├─ uygulama_streamlit.py      # Streamlit arayüzü
 
-├─ riskli_içerik.py           # Riskli içerik sözlüğü
+├─ uygulama_streamlit.py          # Streamlit arayüzü
 
-├─ requirements.txt           # Gerekli kütüphaneler
+├─ riskli_içerik.py              # Riskli içerik sözlüğü
 
-└─ README.md                  # Proje açıklaması
+├─ requirements.txt              # Gerekli kütüphaneler
+
+└─ README.md                     # Proje açıklaması
 
 <h2>Uygulamayı Çalıştırma</h2>
 
 Yerel Ortamda
 
   pip install -r requirements.txt
+  
   streamlit run uygulama_streamlit.py
 
 <h2>Önemli Not</h2>
