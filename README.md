@@ -41,18 +41,21 @@ Streamlit
 cilt_içerik_analiz_projesi/
 │
 ├─ uygulama_streamlit.py      # Streamlit arayüzü
+
 ├─ riskli_içerik.py           # Riskli içerik sözlüğü
+
 ├─ requirements.txt           # Gerekli kütüphaneler
+
 └─ README.md                  # Proje açıklaması
 
-<h2>▶️ Uygulamayı Çalıştırma</h2>
+<h2>Uygulamayı Çalıştırma</h2>
 
 Yerel Ortamda
 
   pip install -r requirements.txt
   streamlit run uygulama_streamlit.py
 
-<h2>⚠️ Önemli Not</h2>
+<h2>Önemli Not</h2>
 
 Bu uygulama bilgilendirme amaçlıdır. Tıbbi veya dermatolojik teşhis yerine geçmez. Cilt problemleri için bir uzmana danışılması önerilir.
 
