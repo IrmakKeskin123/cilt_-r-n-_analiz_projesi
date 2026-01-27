@@ -18,17 +18,17 @@ Uygulama Streamlit ile geliştirilmiştir ve tarayıcı üzerinden (bilgisayar &
 
 <h2> Nasıl Çalışır?</h2>
 
-Kullanıcı cilt tipini seçer.
+   Kullanıcı cilt tipini seçer.
 
-Hassas cilt durumu belirtilir.
+   Hassas cilt durumu belirtilir.
 
-Ürünün içerik listesi (virgülle ayrılmış şekilde) yapıştırılır.
+   Ürünün içerik listesi (virgülle ayrılmış şekilde) yapıştırılır.
 
-Uygulama, önceden tanımlı riskli içerik veritabanı ile eşleştirme yapar.
+   Uygulama, önceden tanımlı riskli içerik veritabanı ile eşleştirme yapar.
 
-Cilt tipine ve hassasiyete uygun zararlı olabilecek içerikler ekranda listelenir.
+   Cilt tipine ve hassasiyete uygun zararlı olabilecek içerikler ekranda listelenir.
 
-Girdi büyük/küçük harf fark etmeksizin analiz edilir.
+   (Girdi büyük/küçük harf fark etmeksizin analiz edilir.)
 
 <h2>Kullanılan Ugulamalar</h2>
 
@@ -38,8 +38,8 @@ Streamlit
 
 <h2>Proje Dosya Yapısı</h2>
 
-cilt_içerik_analiz_projesi/
-│
+cilt_içerik_analiz_projesi
+
 
 ├─ uygulama_streamlit.py          # Streamlit arayüzü
 
