@@ -1,1 +1,1 @@
-# cilt_-r-n-_analiz_projesi
+# cilt_-içerik-_analiz_projesi
