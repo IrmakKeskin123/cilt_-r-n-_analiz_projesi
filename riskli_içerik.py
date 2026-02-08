@@ -29,7 +29,7 @@ riskler = {
     "witch hazel": {"kuru": "kurutucu olabilir", "karma": "kuru bölgeleri kurutabilir"},
     "benzoyl peroxide": {"kuru": "kuruluk artışı"},
     "retinol": {"kuru": "kuruluk yapabilir"},
-    "salicylic acid": {"kuru": "yüksek oranda kurutucu"},
+    "salicylic acid": {"kuru": "yüksek oranda kurutucu",  "hassas": "tahriş riski"},
     "clay": {"kuru": "yağı fazla çeker"},
     "kaolin": {"kuru": "yağı fazla çeker"},
     "bentonite": {"kuru": "yağı fazla çeker"},
@@ -51,3 +51,4 @@ riskler = {
     "isopropyl myristate": {"yağlı": "komedojenik"}
 
 }
+
